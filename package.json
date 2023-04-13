@@ -8,11 +8,8 @@
     "generate": "nuxi generate",
     "preview": "nuxi preview"
   },
-  "resolutions": {
-    "nuxt": "3.3.1"
-  },
   "devDependencies": {
-    "nuxt": "^3.3.1",
+    "nuxt": "3.3.3",
     "@nuxt-themes/alpine": "^1.5.0"
   }
 }
